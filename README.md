@@ -20,7 +20,7 @@ PL-300 Power Bi Data Analyst
 
 **Red Hat Accredations/Credly Badges**
 
-![RHEL Sales Certificate.pdf](https://github.com/ssquadri/All-of-My-Certifications/blob/484638d015eb42987fe5aa0e5f3b72afeca8c5f2/RHEL%20Sales%20Certificate.pdf)
+![red Hat Sales Specialist RHEL.png]([https://github.com/ssquadri/All-of-My-Certifications/blob/484638d015eb42987fe5aa0e5f3b72afeca8c5f2/RHEL%20Sales%20Certificate.pdf))
 
 Red hat Sales Certificate 
 
@@ -31,6 +31,6 @@ Red Hat Portfolio Foundational Credly Badge
 
 **Acronis Certification**
 
-![Acronis CTF.pdf](https://github.com/ssquadri/All-of-My-Certifications/blob/484638d015eb42987fe5aa0e5f3b72afeca8c5f2/Acronis%20CTF.pdf)
+![acronis Cloud Tech Fundamentals.png](https://github.com/ssquadri/All-of-My-Certifications/blob/8ce5977df72ce33de00cf49459342d0a7039a8ab/acronis%20Cloud%20Tech%20Fundamentals.png)
 
 Acronis Cloud Tech Fundamentals
