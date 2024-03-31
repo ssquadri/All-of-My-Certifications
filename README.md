@@ -20,7 +20,7 @@ PL-300 Power Bi Data Analyst
 
 **Red Hat Accredations/Credly Badges**
 
-![red Hat Sales Specialist RHEL.png]([https://github.com/ssquadri/All-of-My-Certifications/blob/484638d015eb42987fe5aa0e5f3b72afeca8c5f2/RHEL%20Sales%20Certificate.pdf))
+![red Hat Sales Specialist RHEL.png](https://github.com/ssquadri/All-of-My-Certifications/blob/484638d015eb42987fe5aa0e5f3b72afeca8c5f2/RHEL%20Sales%20Certificate.pdf))
 
 Red hat Sales Certificate 
 
